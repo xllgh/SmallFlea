@@ -1,0 +1,468 @@
+[ 2016-04-24T16:55:12+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Playmate&a=getPlaymateNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000336s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.034466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.036317s ]
+SQL: SHOW COLUMNS FROM `think_playmate` [ RunTime:0.4763s ]
+SQL: SELECT * FROM `think_playmate` WHERE `enable` = '0'  [ RunTime:0.0734s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.044454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.046287s ]
+
+[ 2016-04-24T16:55:12+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Playmate&a=getPlaymateNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000280s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023841s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017309s ]
+SQL: SHOW COLUMNS FROM `think_playmate` [ RunTime:0.4606s ]
+SQL: SELECT * FROM `think_playmate` WHERE `enable` = '0'  [ RunTime:0.1610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004847s ]
+
+[ 2016-04-24T17:01:36+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Playmate&a=getPlaymateNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000353s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017098s ]
+SQL: SHOW COLUMNS FROM `think_playmate` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `think_playmate` WHERE `enable` = '0'  [ RunTime:0.0016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.037034s ]
+INFO: [ app_end ] --END-- [ RunTime:0.038877s ]
+
+[ 2016-04-24T17:04:35+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=home&c=user&a=uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000280s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003141s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004806s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004685s ]
+
+[ 2016-04-24T17:05:20+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Playmate&a=publishPlaymateNews&uid=9999&time=%E6%8B%BC%E4%BA%86%E5%91%BD&detail=%E8%B7%91%E6%AD%A5%E6%AD%A5%E9%AB%98%E5%8D%87%E6%A1%A5%E5%A4%B4%E9%95%87%E6%B1%9F%E5%B8%82%E5%9C%BA%E9%83%A8%E5%88%86%E4%BA%BA%E7%94%9F%E4%B8%AD%E5%8D%88%E5%A5%BD%E7%9A%84%E5%90%A7&connect=147288&gendar=female&name=xll&img=20160424170434.png&place=%E4%BB%96%E6%A0%B9%E6%9C%AC&ptime=2016-04-24+17%3A05%3A18&briefIntro=%E4%B8%80&
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000294s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003742s ]
+SQL: SHOW COLUMNS FROM `think_playmate` [ RunTime:0.0068s ]
+NOTIC: [8] Undefined index: validate D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_playmate` (`uid`,`name`,`connect`,`detail`,`ptime`,`img`,`briefIntro`,`gendar`,`place`,`time`) VALUES ('9999','xll','147288','跑步步高升桥头镇江市场部分人生中午好的吧','2016-04-24 17:05:18','http://172.26.63.4:8088/SmallFlea/source/20160424170434.png','一','female','他根本','拼了命') [ RunTime:0.0928s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004185s ]
+
+[ 2016-04-24T17:06:19+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Playmate&a=getPlaymateNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000400s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002899s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005760s ]
+SQL: SHOW COLUMNS FROM `think_playmate` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `think_playmate` WHERE `enable` = '0'  [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003479s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005475s ]
+
+[ 2016-04-24T17:07:17+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Playmate&a=publishPlaymateNews&uid=9999&time=%E5%93%A6%E5%8F%AF%E8%83%BD%E6%98%AF&detail=%E4%BA%BA%E5%AE%B6%E9%87%8C%E4%BA%BA%E8%AF%B4%E8%AF%9D%E4%BA%86%E5%90%97%EF%BC%9F&connect=147258369&gendar=female&name=xll&place=%E5%BE%88%E5%81%A5%E5%BA%B7%E8%AF%81&ptime=2016-04-24+17%3A07%3A17&briefIntro=%E6%BC%82%E4%BA%AE&
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000385s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003213s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003725s ]
+ERR: 参数错误或者未定义:img
+
+[ 2016-04-24T17:07:49+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=home&c=user&a=uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000320s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002922s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004489s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002769s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005015s ]
+
+[ 2016-04-24T17:07:53+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Playmate&a=publishPlaymateNews&uid=9999&time=%E5%93%A6%E5%8F%AF%E8%83%BD%E6%98%AF&detail=%E4%BA%BA%E5%AE%B6%E9%87%8C%E4%BA%BA%E8%AF%B4%E8%AF%9D%E4%BA%86%E5%90%97%EF%BC%9F&connect=147258369&gendar=female&name=xll&img=20160424170740.png&place=%E5%BE%88%E5%81%A5%E5%BA%B7%E8%AF%81&ptime=2016-04-24+17%3A07%3A51&briefIntro=%E6%BC%82%E4%BA%AE&
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000291s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002508s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004010s ]
+SQL: SHOW COLUMNS FROM `think_playmate` [ RunTime:0.0092s ]
+NOTIC: [8] Undefined index: validate D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_playmate` (`uid`,`name`,`connect`,`detail`,`ptime`,`img`,`briefIntro`,`gendar`,`place`,`time`) VALUES ('9999','xll','147258369','人家里人说话了吗？','2016-04-24 17:07:51','http://172.26.63.4:8088/SmallFlea/source/20160424170740.png','漂亮','female','很健康证','哦可能是') [ RunTime:0.0218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002448s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004017s ]
+
+[ 2016-04-24T17:07:58+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Playmate&a=publishPlaymateNews&uid=9999&time=%E5%93%A6%E5%8F%AF%E8%83%BD%E6%98%AF&detail=%E4%BA%BA%E5%AE%B6%E9%87%8C%E4%BA%BA%E8%AF%B4%E8%AF%9D%E4%BA%86%E5%90%97%EF%BC%9F&connect=147258369&gendar=female&name=xll&img=20160424170740.png&place=%E5%BE%88%E5%81%A5%E5%BA%B7%E8%AF%81&ptime=2016-04-24+17%3A07%3A51&briefIntro=%E6%BC%82%E4%BA%AE&
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000320s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002830s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004386s ]
+SQL: SHOW COLUMNS FROM `think_playmate` [ RunTime:0.0296s ]
+NOTIC: [8] Undefined index: validate D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_playmate` (`uid`,`name`,`connect`,`detail`,`ptime`,`img`,`briefIntro`,`gendar`,`place`,`time`) VALUES ('9999','xll','147258369','人家里人说话了吗？','2016-04-24 17:07:51','http://172.26.63.4:8088/SmallFlea/source/20160424170740.png','漂亮','female','很健康证','哦可能是') [ RunTime:0.0482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001996s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003275s ]
+
+[ 2016-04-24T17:08:07+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Playmate&a=getPlaymateNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000311s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003025s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003523s ]
+SQL: SHOW COLUMNS FROM `think_playmate` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `think_playmate` WHERE `enable` = '0'  [ RunTime:0.0011s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002656s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004325s ]
+
+[ 2016-04-24T17:10:38+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Playmate&a=getPlaymateNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000324s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003196s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005040s ]
+SQL: SHOW COLUMNS FROM `think_playmate` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `think_playmate` WHERE `enable` = '0'  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004915s ]
+
+[ 2016-04-24T17:10:55+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Broadcast&a=getAllBroadcast
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000288s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004183s ]
+SQL: SHOW COLUMNS FROM `think_broadcast` [ RunTime:0.0527s ]
+SQL: SELECT * FROM `think_broadcast`  [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004406s ]
+
+[ 2016-04-24T17:13:14+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=ActivityNews&a=getActivityNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000337s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005575s ]
+SQL: SHOW COLUMNS FROM `think_activity_news` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `think_activity_news` WHERE `endtime` < 1461489194  [ RunTime:0.0120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004838s ]
+
+[ 2016-04-24T17:13:17+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Broadcast&a=getAllBroadcast
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000334s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003164s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004060s ]
+SQL: SHOW COLUMNS FROM `think_broadcast` [ RunTime:0.0527s ]
+SQL: SELECT * FROM `think_broadcast`  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002802s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004510s ]
+
+[ 2016-04-24T17:13:57+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=home&c=user&a=uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000344s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002166s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003669s ]
+
+[ 2016-04-24T17:14:01+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Broadcast&a=publishBroadcast&uid=9999&time=%E6%9A%82%E6%97%A0&detail=%E6%8B%BC%E4%BA%86%E5%91%BD%E8%BF%90%E6%B0%94%E5%A5%BD%E5%83%8F%E6%9C%89%E4%BA%BA%E8%AF%B4%E8%BF%87%E7%9A%84%E4%BA%BA%E7%94%9F%E7%9A%84%E6%84%8F%E4%B9%89%E7%9A%84%E7%A1%AE%E5%A6%82%E6%AD%A4%E8%BF%99%E8%88%AC%E7%9A%84&connect=147258&gendar=female&name=xll&img=20160424171357.png&place=%E6%9A%82%E6%97%A0&ptime=2016-04-24+17%3A13%3A59&briefIntro=%E6%8B%BC%E4%BA%86%E5%91%BD&
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000288s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003971s ]
+SQL: SHOW COLUMNS FROM `think_broadcast` [ RunTime:0.0196s ]
+NOTIC: [8] Undefined index: validate D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_broadcast` (`uid`,`connect`,`name`,`img`,`detail`,`ptime`,`briefIntro`) VALUES ('9999','147258','xll','http://172.26.63.4:8088/SmallFlea/source/20160424171357.png','拼了命运气好像有人说过的人生的意义的确如此这般的','2016-04-24 17:13:59','拼了命') [ RunTime:0.0127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004129s ]
+
+[ 2016-04-24T17:14:47+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Playmate&a=getPlaymateNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000315s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004144s ]
+SQL: SHOW COLUMNS FROM `think_playmate` [ RunTime:0.0501s ]
+SQL: SELECT * FROM `think_playmate` WHERE `enable` = '0'  [ RunTime:0.0012s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004295s ]
+
+[ 2016-04-24T17:14:49+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Broadcast&a=getAllBroadcast
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000323s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003883s ]
+SQL: SHOW COLUMNS FROM `think_broadcast` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `think_broadcast`  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004365s ]
+
+[ 2016-04-24T17:16:28+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Broadcast&a=getAllBroadcast
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000350s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004686s ]
+SQL: SHOW COLUMNS FROM `think_broadcast` [ RunTime:0.0218s ]
+SQL: SELECT * FROM `think_broadcast`  [ RunTime:0.0019s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003528s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005872s ]
+
+[ 2016-04-24T17:17:14+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=home&c=user&a=uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000284s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002586s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004180s ]
+
+[ 2016-04-24T17:17:17+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Broadcast&a=publishBroadcast&uid=9999&time=%E6%9A%82%E6%97%A0&detail=uhnn%E4%B8%8D%E8%83%BD%E5%90%83%E4%BA%86%E5%90%97%EF%BC%81&connect=%E8%A6%81%E5%92%8C%E4%BD%A0&gendar=female&name=xll&img=20160424171714.png&place=%E6%9A%82%E6%97%A0&ptime=2016-04-24+17%3A17%3A16&briefIntro=%E6%BC%82%E4%BA%AE&
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000298s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002927s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004068s ]
+SQL: SHOW COLUMNS FROM `think_broadcast` [ RunTime:0.0084s ]
+NOTIC: [8] Undefined index: validate D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_broadcast` (`uid`,`connect`,`name`,`img`,`detail`,`ptime`,`briefIntro`) VALUES ('9999','要和你','xll','http://172.26.63.4:8088/SmallFlea/source/20160424171714.png','uhnn不能吃了吗！','2016-04-24 17:17:16','漂亮') [ RunTime:0.0451s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002498s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004187s ]
+
+[ 2016-04-24T17:17:33+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=home&c=user&a=uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000309s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003982s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002848s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004456s ]
+
+[ 2016-04-24T17:17:41+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Broadcast&a=publishBroadcast&uid=9999&time=%E6%9A%82%E6%97%A0&detail=uhnn%E4%B8%8D%E8%83%BD%E5%90%83%E4%BA%86%E5%90%97%EF%BC%81&connect=%E8%A6%81%E5%92%8C%E4%BD%A0&gendar=female&name=xll&img=20160424171732.png&place=%E6%9A%82%E6%97%A0&ptime=2016-04-24+17%3A17%3A39&briefIntro=%E5%93%A6%E7%9C%8B&
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000323s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003787s ]
+SQL: SHOW COLUMNS FROM `think_broadcast` [ RunTime:0.0073s ]
+NOTIC: [8] Undefined index: validate D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\thinkphp_3.2.3_full\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `think_broadcast` (`uid`,`connect`,`name`,`img`,`detail`,`ptime`,`briefIntro`) VALUES ('9999','要和你','xll','http://172.26.63.4:8088/SmallFlea/source/20160424171732.png','uhnn不能吃了吗！','2016-04-24 17:17:39','哦看') [ RunTime:0.0136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002306s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003682s ]
+
+[ 2016-04-24T17:17:52+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Playmate&a=getPlaymateNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000295s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002857s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004054s ]
+SQL: SHOW COLUMNS FROM `think_playmate` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `think_playmate` WHERE `enable` = '0'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004078s ]
+
+[ 2016-04-24T17:17:56+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Broadcast&a=getAllBroadcast
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000302s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004470s ]
+SQL: SHOW COLUMNS FROM `think_broadcast` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `think_broadcast`  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003660s ]
+
+[ 2016-04-24T17:18:02+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=ActivityNews&a=getActivityNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000366s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005737s ]
+SQL: SHOW COLUMNS FROM `think_activity_news` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `think_activity_news` WHERE `endtime` < 1461489482  [ RunTime:0.0016s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002929s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004725s ]
+
+[ 2016-04-24T17:18:06+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=ActivityNews&a=getActivityNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000300s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003026s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003937s ]
+SQL: SHOW COLUMNS FROM `think_activity_news` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `think_activity_news` WHERE `endtime` < 1461489486  [ RunTime:0.0015s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002884s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004643s ]
+
+[ 2016-04-24T22:43:18+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Playmate&a=getPlaymateNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003959s ]
+SQL: SHOW COLUMNS FROM `think_playmate` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `think_playmate` WHERE `enable` = '0'  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002584s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004070s ]
+
+[ 2016-04-24T22:43:26+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Trade&a=getAllOut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000355s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009668s ]
+SQL: SHOW COLUMNS FROM `think_trade` [ RunTime:0.0154s ]
+SQL: select ptime ,adetail,aimg from think_activity_news
+                union select ptime,briefIntro,img from think_broadcast
+                union select ptime,briefIntro,img from think_playmate
+                union select ptime,detail,img from think_trade [ RunTime:0.0117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014233s ]
+
+[ 2016-04-24T22:47:40+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Trade&a=getAllOut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000280s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002754s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003973s ]
+SQL: SHOW COLUMNS FROM `think_trade` [ RunTime:0.0087s ]
+SQL: select ptime ,adetail,aimg from think_activity_news
+                union select ptime,briefIntro,img from think_broadcast
+                union select ptime,briefIntro,img from think_playmate
+                union select ptime,detail,img from think_trade [ RunTime:0.0104s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004299s ]
+
+[ 2016-04-24T22:47:52+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Trade&a=getAllOut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000288s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004010s ]
+SQL: SHOW COLUMNS FROM `think_trade` [ RunTime:0.0087s ]
+SQL: select ptime ,adetail,aimg from think_activity_news
+                union select ptime,briefIntro,img from think_broadcast
+                union select ptime,briefIntro,img from think_playmate
+                union select ptime,detail,img from think_trade [ RunTime:0.0105s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002827s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004376s ]
+
+[ 2016-04-24T22:48:07+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Trade&a=getAllOut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000313s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005825s ]
+SQL: SHOW COLUMNS FROM `think_trade` [ RunTime:0.0277s ]
+SQL: select ptime ,adetail,aimg from think_activity_news
+                union select ptime,briefIntro,img from think_broadcast
+                union select ptime,briefIntro,img from think_playmate
+                union select ptime,detail,img from think_trade [ RunTime:0.0086s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002690s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004245s ]
+
+[ 2016-04-24T22:48:24+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Playmate&a=getPlaymateNews
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000310s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003038s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004721s ]
+SQL: SHOW COLUMNS FROM `think_playmate` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `think_playmate` WHERE `enable` = '0'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003244s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004882s ]
+
+[ 2016-04-24T22:48:28+08:00 ] 172.26.63.3 /SmallFlea/index.php?m=Home&c=Trade&a=getAllOut
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000305s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002771s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004260s ]
+SQL: SHOW COLUMNS FROM `think_trade` [ RunTime:0.0236s ]
+SQL: select ptime ,adetail,aimg from think_activity_news
+                union select ptime,briefIntro,img from think_broadcast
+                union select ptime,briefIntro,img from think_playmate
+                union select ptime,detail,img from think_trade [ RunTime:0.0105s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003052s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004685s ]
+
